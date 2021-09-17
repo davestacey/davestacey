@@ -4,8 +4,6 @@ const { CI_PAGES_URL } = process.env
 const base = CI_PAGES_URL && new URL(CI_PAGES_URL).pathname
 
 export default {
-  mode: 'universal',
-
   target: 'static',
 
   /*

@@ -8,9 +8,6 @@
       <h2>
         (dev nuxt)
       </h2>
-      <article>
-        Dev notes to come
-      </article>
       <div class="links">
         <a
           href="https://github.com/davestacey"
